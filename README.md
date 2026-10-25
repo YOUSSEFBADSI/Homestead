@@ -10,6 +10,17 @@ launcher as the system home activity and will not let anything else take it.
 
 Both pictures are from the same TV, a few minutes apart.
 
+## This fork: home screen redesign
+
+This fork adds a redesigned home screen and a **TV Settings** tile that opens Fire TV's own Settings.
+The code is on the [`home-redesign-tv-settings`](https://github.com/fablabvidalactea/Homestead/tree/home-redesign-tv-settings)
+branch and is proposed upstream in [Sarg338/Homestead#27](https://github.com/Sarg338/Homestead/pull/27).
+Screenshots from a Fire TV Edition TV (AFTBR92D74, Fire OS 8.1.8.5):
+
+| First screen | Grid + TV Settings tile | Settings panel |
+|---|---|---|
+| ![Home](https://raw.githubusercontent.com/fablabvidalactea/Homestead/screenshots/screenshots/1-home.png) | ![Grid](https://raw.githubusercontent.com/fablabvidalactea/Homestead/screenshots/screenshots/2-grid-tv-settings.png) | ![Settings](https://raw.githubusercontent.com/fablabvidalactea/Homestead/screenshots/screenshots/3-settings-panel.png) |
+
 ## What it does
 
 - **A home screen without the ads.** Your inputs, your TV apps and everything else, in
